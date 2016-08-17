@@ -1,0 +1,27 @@
+﻿  ZEGlass_HW_07.cpp
+c:\users\glass_000\google drive\documents\school\computer graphics\opengl\include\angel.h(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\glass_000\google drive\documents\school\computer graphics\opengl\include\mat.h(707): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\glass_000\google drive\documents\school\computer graphics\opengl\include\mat.h(708): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\glass_000\google drive\documents\school\computer graphics\opengl\include\mat.h(709): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\glass_000\google drive\documents\school\computer graphics\opengl\include\mat.h(730): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\glass_000\google drive\documents\school\computer graphics\opengl\include\mat.h(732): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\glass_000\google drive\documents\school\computer graphics\opengl\include\mat.h(735): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\glass_000\google drive\documents\school\computer graphics\opengl\include\mat.h(752): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\glass_000\google drive\documents\school\computer graphics\opengl\homework 7\opengl\zeglass_hw_07.cpp(84): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\glass_000\google drive\documents\school\computer graphics\opengl\homework 7\opengl\zeglass_hw_07.cpp(84): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\glass_000\google drive\documents\school\computer graphics\opengl\homework 7\opengl\zeglass_hw_07.cpp(108): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\glass_000\google drive\documents\school\computer graphics\opengl\homework 7\opengl\zeglass_hw_07.cpp(108): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\glass_000\google drive\documents\school\computer graphics\opengl\homework 7\opengl\zeglass_hw_07.cpp(116): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\glass_000\google drive\documents\school\computer graphics\opengl\homework 7\opengl\zeglass_hw_07.cpp(120): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\glass_000\google drive\documents\school\computer graphics\opengl\homework 7\opengl\zeglass_hw_07.cpp(137): warning C4244: 'initializing': conversion from '__int64' to 'unsigned long', possible loss of data
+c:\users\glass_000\google drive\documents\school\computer graphics\opengl\homework 7\opengl\zeglass_hw_07.cpp(144): warning C4244: '=': conversion from 'unsigned long' to 'GLfloat', possible loss of data
+c:\users\glass_000\google drive\documents\school\computer graphics\opengl\homework 7\opengl\zeglass_hw_07.cpp(147): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\glass_000\google drive\documents\school\computer graphics\opengl\homework 7\opengl\zeglass_hw_07.cpp(150): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\glass_000\google drive\documents\school\computer graphics\opengl\homework 7\opengl\zeglass_hw_07.cpp(151): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+c:\users\glass_000\google drive\documents\school\computer graphics\opengl\homework 7\opengl\zeglass_hw_07.cpp(156): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\glass_000\google drive\documents\school\computer graphics\opengl\homework 7\opengl\zeglass_hw_07.cpp(157): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\glass_000\google drive\documents\school\computer graphics\opengl\homework 7\opengl\zeglass_hw_07.cpp(162): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\glass_000\google drive\documents\school\computer graphics\opengl\homework 7\opengl\zeglass_hw_07.cpp(166): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\glass_000\google drive\documents\school\computer graphics\opengl\homework 7\opengl\zeglass_hw_07.cpp(238): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  opengl.vcxproj -> C:\Users\glass_000\Google Drive\Documents\School\Computer Graphics\OpenGL\Homework 7\Debug\opengl.exe
+  opengl.vcxproj -> C:\Users\glass_000\Google Drive\Documents\School\Computer Graphics\OpenGL\Homework 7\Debug\opengl.pdb (Partial PDB)
