@@ -1,7 +1,7 @@
 // File name:		OpenGL_Matrices_Demo.cpp
 // Author:			Zachery Glass
 // Date:			May 15, 2016
-// Despription:		This program draw multiple shapes and demonstrates the uses of a rotation, translatoin, sheer and scale matrices. 
+// Despription:		This program draw multiple shapes and demonstrates the uses of a rotation, translation, sheer and scale matrices. 
 //					The user must press the UP and DOWN arrow keys to change movement speed of the shapes.
 
 #include <iostream>
